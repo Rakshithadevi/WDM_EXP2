@@ -1,6 +1,6 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
-### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
+### AIM: 
+To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
 relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered
@@ -42,6 +42,18 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+## EMPLOYEE DATASET:
+
+![image](https://github.com/Rakshithadevi/WDM_EXP2/assets/94165326/b81ee9be-3f19-49ed-bc69-764a3a695830)
+
+## BANKING DATASET:
+
+![image](https://github.com/Rakshithadevi/WDM_EXP2/assets/94165326/0666bf0f-a446-4546-ab7f-2b8e16c4b632)
+
+## BUYING DATASET:
+
+![image](https://github.com/Rakshithadevi/WDM_EXP2/assets/94165326/128f5fab-7a72-4fe4-bcf2-47a9cf335180)
+
 
 
 ### Procedure for Association Rules:
@@ -53,5 +65,19 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+## EMPLOYEE DATASET:
+
+![image](https://github.com/Rakshithadevi/WDM_EXP2/assets/94165326/3bd1d20c-9953-4d0a-a072-0aa1235d11b2)
+
+## BANKING DATASET:
+
+![image](https://github.com/Rakshithadevi/WDM_EXP2/assets/94165326/fddf07bd-d988-488d-a8c5-48a06414d9dd)
+
+## BUYING DATASET:
+
+![image](https://github.com/Rakshithadevi/WDM_EXP2/assets/94165326/21e75a2c-2a27-4862-8229-c6937dcb006f)
+
+
 
 ### RESULT: 
+Thus the program has been successfully executed.
